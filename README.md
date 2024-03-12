@@ -15,18 +15,21 @@
 
 ## Output
   ### Home Screen
-  
-  ![Screenshot (275)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/44c09980-130e-49c3-b4b4-3ac1b36845ab)
 
+  ![Screenshot (8)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/c937e88e-65d7-484a-8d8e-0d04f0892f37)
+
+  
 
   ### Recommendations Screen
   
-  ![Screenshot (276)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/d994acfd-1aa5-40e7-bd64-ea49c141075d)
+  ![Screenshot (7)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/0ea309d4-b881-4d4f-b74c-cfb2174e6b3c)
+
 
 
   ### Error Screen
   
-  ![Screenshot (274)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/c68adc2c-4ddc-4347-a20c-c1bf3d0b039c)
+ ![Screenshot (6)](https://github.com/RK-Karthik14/Book-Recommendation-System-Using-Machine-Learning--Popularity-Based/assets/116002560/27ac00fb-ba4d-4a0e-9349-8e681cb95501)
+
 
 
 Note : Books Recommender.ipynb is only for reference
